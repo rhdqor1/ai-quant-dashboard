@@ -26,7 +26,6 @@
 * **시각화:** 상승 확신도(Probability)를 기반으로 한 직관적인 매수 신호 차트 제공.
 
 ## 🖥 프로젝트 화면
-*(여기에 아까 찍어둔 대시보드 스크린샷 이미지를 깃허브에 올린 후 아래와 같이 링크하세요)*
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/1a9a685d-cd9b-4164-84a5-ca61596f706d" />
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/9f5d6a25-b020-4262-b871-5d6e3e16c64f" />
 
